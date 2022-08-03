@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-##Hey,I am Rakibul Islam.<br>I am from Faridpur Engineering College.<br>🔭 I’m currently working with programming hero.<br>🌱 I’m currently learning web developing.<br>👯 I’m looking to collaborate on youtube.<br>
+Hey,I am Rakibul Islam.<br>I am from Faridpur Engineering College.<br>🔭 I’m currently working with programming hero.<br>🌱 I’m currently learning web developing.<br>👯 I’m looking to collaborate on youtube.<br>
 
 
 ## 🌐 Socials:

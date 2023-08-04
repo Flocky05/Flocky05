@@ -43,7 +43,15 @@ A computer science student who loves to work with software technology . I’m a 
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/rakibulislam2527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Flocky05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rakibul_01islam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rakibulislam2527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flocky05&bg_color=f8f1f5&color=cc05bf&line=9e4c98&point=874545&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Contribution graph
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1 align="center"> 🔥 Contributions 🔥</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 
 ### Badges
 

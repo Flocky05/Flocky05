@@ -43,6 +43,7 @@ A computer science student who loves to work with software technology . I’m a 
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/rakibulislam2527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Flocky05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rakibul_01islam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rakibulislam2527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flocky05&bg_color=f8f1f5&color=cc05bf&line=9e4c98&point=874545&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Badges
 

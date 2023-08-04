@@ -50,9 +50,13 @@ A computer science student who loves to work with software technology . I’m a 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Flocky05"><img src="https://github-readme-stats.vercel.app/api?username=Flocky05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Flocky05's GitHub stats" /></a>
+## :chart_with_upwards_trend: Current Stats
 
-<a href="http://www.github.com/Flocky05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Flocky05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Flocky05&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 
 ### Contribution graph
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">

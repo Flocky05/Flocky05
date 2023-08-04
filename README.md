@@ -47,12 +47,6 @@ A computer science student who loves to work with software technology . I’m a 
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://[www.linkedin.com/in/mirhussainmurtaza/](https://www.linkedin.com/in/rakibulislam2527/))[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">]([https://www.facebook.com/mirhussainmurtaza](https://www.facebook.com/rakibulislam2527))
 
 
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -61,7 +55,7 @@ A computer science student who loves to work with software technology . I’m a 
 </p>
 
 
-### Contribution graph
+## 🗒️ Contribution graph
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=flocky05&theme=react-dark&hide_border=true">
 </a>

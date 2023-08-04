@@ -44,10 +44,7 @@ A computer science student who loves to work with software technology . I’m a 
 
 <p align="left"> <a href="https://www.facebook.com/rakibulislam2527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Flocky05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rakibul_01islam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rakibulislam2527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Contribution graph
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flocky05&theme=react-dark&hide_border=true">
-</a>
+
 
 ### Badges
 
@@ -57,4 +54,7 @@ A computer science student who loves to work with software technology . I’m a 
 
 <a href="http://www.github.com/Flocky05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Flocky05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Flocky05"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Flocky05&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Contribution graph
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=flocky05&theme=react-dark&hide_border=true">
+</a>

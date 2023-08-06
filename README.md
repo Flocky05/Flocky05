@@ -44,7 +44,7 @@ A computer science student who loves to work with software technology . I’m a 
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://[www.linkedin.com/in/mirhussainmurtaza/](https://www.linkedin.com/in/rakibulislam2527/))[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">]([https://www.facebook.com/mirhussainmurtaza](https://www.facebook.com/rakibulislam2527))
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://[[www.linkedin.com/in/mirhussainmurtaza/](https://www.linkedin.com/in/rakibulislam2527/)](https://www.linkedin.com/in/rakibulislam2527/))[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">]([[https://www.facebook.com/mirhussainmurtaza](https://www.facebook.com/rakibulislam2527)](https://www.facebook.com/rakibulislam2527))
 
 
 ## :chart_with_upwards_trend: Current Stats
